@@ -1,0 +1,13 @@
+
+body {
+  background-color: wheat;
+  font-family: Verdana;
+  margin: 40px;
+}
+
+canvas{
+  height: 200px;
+  //width: 400px;
+  border: 10px solid lightgray;
+}
+
